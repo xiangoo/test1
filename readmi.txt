@@ -1,2 +1,8 @@
-123
-456
+diff --git a/readmi.txt b/readmi.txt
+index 156626c..e69de29 100644
+--- a/readmi.txt
++++ b/readmi.txt
+@@ -1,2 +0,0 @@
+-123
+-456
+\ No newline at end of file
